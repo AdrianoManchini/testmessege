@@ -2,8 +2,8 @@
 
 class Telegram {
 
-    const CHAT_ID = '####';
-    const TOKEN = '#####';
+    const CHAT_ID = '935613097';
+    const TOKEN = '935613097:AAE9Sz4I6QabVfmzjK9VpYGJlnbDjb9qO6w';
 
     public static function sendMessage($message)
     {
